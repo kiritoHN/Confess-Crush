@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Em có yêu anh khônggg",
     introTitle: 'Ly',
     introDesc: `Nhiều người đang nghĩ là em không phải bạn gái anh ý thì em có muốn chứng minh họ sai với anh ko :v`,
-    btnIntro: ':)))))',
+    btnIntro: 'Có ạ',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Có ạ',
